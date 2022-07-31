@@ -47,7 +47,7 @@ nbconvert
 nbformat
 notebook
 numpy
-opencv-python
+opencv-python-headless
 pandas
 pandocfilters
 parso
